@@ -1,0 +1,6 @@
+{
+  "name": "Evala Edu – Účetní Sandbox & Trenažér oběhu dokladů pro OA",
+  "description": "Interaktivní účetní simulátor, trenažér oběhu dokladů (8 kroků), DPH, saldokonto, skladové hospodářství, mzdy a exporty do Wordu (.docx), PDF a CSV pro Obchodní akademie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
